@@ -1,2 +1,4 @@
 cryptography==46.0.7
 pytest==9.1.1
+mcp==2.2.0
+uvicorn==0.54.0
